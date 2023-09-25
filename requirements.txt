@@ -1,0 +1,8 @@
+langchain
+openai
+streamlit
+tiktoken
+faiss-cpu
+sentence-transformers
+chardet
+cchardet
